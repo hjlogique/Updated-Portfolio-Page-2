@@ -1,7 +1,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/hjlogique/Updated-Portfolio-Page-2?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/hjlogique/Updated-Portfolio-Page-2?style=flat&logo=appveyor)
   
-# Updated-Portfolio-Page-2
+# Updated-Portfolio-2
 
   ## Description 
   
