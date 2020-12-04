@@ -26,9 +26,9 @@
 
  Screenshots of the updated pages in my website:
 
- ![About Page](/screenshots/pic1.png)
+ ![About Page](/screenshots/img1.png)
 
- ![About Page](/screenshots/pic2.png)
+ ![About Page](/screenshots/img2.png)
 
 
   ## Questions:
