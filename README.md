@@ -13,7 +13,7 @@
 
   ## Links:
   
-  [Link to my portfolio website](https://hjlogique.github.io/Updated-Portfolio-2/)
+  [Link to my portfolio website](https://hjlogique.github.io/Updated-Portfolio-Page-2/)
 
   [Link to my GitHub profile](https://github.com/hjlogique)
 
